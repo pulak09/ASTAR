@@ -1,6 +1,6 @@
 
 # ASTAR : GLOBALLY OPTIMAL  CONSENSUS MAXIMISATION
-* This package contains the source code which implements optimal Consensus Maximisation proposed in
+This package contains the source code which implements optimal Consensus Maximisation proposed in
 T.J. Chin, P. Purkait, A. Eriksson and D. Suter
 Efficient Globally Optimal Consensus Maximisation with Tree Search, 
 In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2015, Boston
